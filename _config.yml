@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Microbial Ecology | Groningen
 description: Groningen Institute for Evolutionary Life Sciences
+
+navigation: True # show the navbar links
