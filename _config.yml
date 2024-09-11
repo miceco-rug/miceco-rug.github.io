@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Microbial Ecology | Groningen
 description: Groningen Institute for Evolutionary Life Sciences
-
+cover: assets/images/HeroImage_deVosLab.jpg
 navigation: True # show the navbar links
 # gems and other configs
 plugins: [jekyll-paginate, jekyll-feed]
