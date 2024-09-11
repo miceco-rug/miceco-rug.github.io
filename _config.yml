@@ -1,5 +1,5 @@
 # theme: jekyll-theme-minimal
-remote_theme: jasper2
+remote_theme: https://github.com/jekyllt/jasper2
 title: Microbial Ecology | Groningen
 description: Groningen Institute for Evolutionary Life Sciences
 cover: assets/images/HeroImage_deVosLab.jpg
